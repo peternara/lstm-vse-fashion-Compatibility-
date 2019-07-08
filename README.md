@@ -1,5 +1,8 @@
 # LSTM
-An simple implementation of fashion compatibility modeling based on bi-LSTMs
+An simple implementation of fashion compatibility modeling based on bi-LSTMs. 
+
+Paper: Han, Xintong et at. Learning Fashion Compatibility with Bidirectional LSTMs. In 2017 ACM Multimedia.
+
 
 # Learning Fashion Compatibility with Bidirectional LSTMs
 
